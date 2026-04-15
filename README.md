@@ -19,9 +19,14 @@ NeuroLearn is a comprehensive, client-side web application designed to teach Art
 - **AI**: Google Gemini API (via REST)
 - **Charts**: Chart.js, React-Chartjs-2
 - **Persistence**: Browser LocalStorage
-- #DEPLOYED ON NETLIFY,HERE'S THE DIRECT LINK FOR THIS:-https://melodious-rugelach-ba6621.netlify.app/
+- ##*DEPLOYED ON NETLIFY,HERE'S THE DIRECT LINK FOR THIS:-https://melodious-rugelach-ba6621.netlify.app/ ****
 - #API key error may cause as it needs public api,it will work fine on google ai studio environment,sorry for that issue...
 - #included simple UI
 - User can login with only username,excluding the need for google sign in
+
+- #screenshots- 
+<img width="1920" height="1080" alt="Screenshot 2026-04-15 143340" src="https://github.com/user-attachments/assets/6c4f58f4-4b66-4b9f-896e-c2b7edb1b587" />
+<img width="1920" height="1080" alt="Screenshot 2026-04-15 142808" src="https://github.com/user-attachments/assets/9439613c-d72e-4ef8-b5fe-5085a1b70dcb" />
+
 
 
