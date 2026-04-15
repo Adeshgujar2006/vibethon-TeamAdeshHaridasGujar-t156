@@ -21,23 +21,6 @@ NeuroLearn is a comprehensive, client-side web application designed to teach Art
 - **Charts**: Chart.js, React-Chartjs-2
 - **Python Runtime**: Pyodide
 - **Persistence**: Browser LocalStorage
+- #DEPLOYED ON NETLIFY,HERE'S THE DIRECT LINK FOR THIS:-https://melodious-rugelach-ba6621.netlify.app/
 
-## 📦 Installation
 
-1. Clone the repository.
-2. Install dependencies:
-   ```bash
-   npm install
-   ```
-3. Set up your environment variables in a `.env` file:
-   ```env
-   GEMINI_API_KEY=your_api_key_here
-   ```
-4. Start the development server:
-   ```bash
-   npm run dev
-   ```
-
-## 📜 License
-
-MIT License. Built for the Vibethon Hackathon.
