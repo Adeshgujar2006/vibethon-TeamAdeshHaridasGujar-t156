@@ -10,7 +10,6 @@ NeuroLearn is a comprehensive, client-side web application designed to teach Art
 - **Gamification**: Earn points, maintain streaks, and unlock badges (Novice, Expert, Master, Scholar).
 - **AI Tutor**: Real-time doubt solver powered by **Gemini API**, providing detailed explanations and dynamic charts.
 - **Mini-Games**: Concept-based games like "Fast Classifier" to reinforce learning.
-- **Voice Explanations**: Integrated text-to-speech for all learning content and AI responses.
 - **Leaderboard**: Compete with other local users based on scores.
 
 ## 🛠️ Tech Stack
@@ -19,8 +18,10 @@ NeuroLearn is a comprehensive, client-side web application designed to teach Art
 - **Styling**: Tailwind CSS, Lucide Icons
 - **AI**: Google Gemini API (via REST)
 - **Charts**: Chart.js, React-Chartjs-2
-- **Python Runtime**: Pyodide
 - **Persistence**: Browser LocalStorage
 - #DEPLOYED ON NETLIFY,HERE'S THE DIRECT LINK FOR THIS:-https://melodious-rugelach-ba6621.netlify.app/
+- #API key error may cause as it needs public api,it will work fine on google ai studio environment,sorry for that issue...
+- #included simple UI
+- User can login with only username,excluding the need for google sign in
 
 
